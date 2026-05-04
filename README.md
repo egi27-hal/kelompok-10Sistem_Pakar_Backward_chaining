@@ -1,0 +1,2 @@
+# kelompok-10Sistem_Pakar_Backward_chaining
+SPK_project kelompok 10 _metode Backward_chaining
